@@ -5,8 +5,14 @@ When you initialize a repository you create a .git folder containing the metadat
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+The staging area is a git-specific space where things can be added or reset without affecting real files.
+The name suggests it lets you arrange see and interact with files more cleanly.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
+
+You can double check the code that differs between the working document and the most recent
+commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
