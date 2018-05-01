@@ -9,7 +9,10 @@ access the code without internet signal, but that's a rare problem these days.
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+The nature of coding is that files are frequently in states of disorder or
+testing. By forcing users to decide on specific points in time for changes
+to be pulled or pushed, GitHub ensures that every save point can be tied
+to a logical change rather than to random chronological markers.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
