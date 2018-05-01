@@ -26,5 +26,10 @@ Diagrams allow you to follow the different chains of commits without losing trac
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+By merging two branches together git keeps the common denominator text of both commits
+along with whatever new code is added, minus the old code that was deleted. We represent
+it as we do because it contains information about both original branches, thus it has two
+parents.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
