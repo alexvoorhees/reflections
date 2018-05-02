@@ -29,7 +29,11 @@ repository without altering the original, you'd make a fork.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+Having the last known state stored locally allows you to compare code with
+a relatively recent cloud-hosted source without having to access the network
+directly. It also allows you to have a consistent reference point, so that
+the thing you are comparing your code to is not changing on its own between
+your comparisons.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
