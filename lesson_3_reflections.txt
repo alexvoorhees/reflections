@@ -46,4 +46,8 @@ Overall, it seems like GitHub, or something similar, is essential.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+You'd want to make changes in a seperate branch if you wanted to try a new
+feature or were working with a team and multiple people were attempting
+to solve problems independently. While it adds a few steps to evolving the
+master, it helps to make sure that people don't keep changing the same code
+without it being agreed upon beforehand.
