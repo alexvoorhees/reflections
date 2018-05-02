@@ -38,7 +38,10 @@ your comparisons.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+I'd probably use some form of google docs or flash drives. Saving files in
+exactly the appropriate state would be much more difficult and it would be
+harder to let multiple parties access and collaborate on the same files.
+Overall, it seems like GitHub, or something similar, is essential.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
